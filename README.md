@@ -8,16 +8,15 @@ Hi Again 👋, I made a script to Increase Your Openwrt Router Disk Space With U
 
 How to install ? 
 
-https://www.youtube.com/watch?v=Pr0wEJqv980&ab_channel=AmirHosseinChoghaei
-
 📍Step 1 : Plug in USB Drive to the router
 
 📍Step 2 : ssh remote openwrt and run this command
 
 ```
-rm -f exroot.sh && wget https://raw.githubusercontent.com/amirhosseinchoghaei/Increase-openwrt-disk-space/main/exroot.sh && chmod 777 exroot.sh && sh exroot.sh
+rm -f exroot.sh && wget https://raw.githubusercontent.com/philve/Increase-openwrt-disk-space/main/exroot.sh && chmod 777 exroot.sh && sh exroot.sh
 ```
 
+https://www.youtube.com/watch?v=Pr0wEJqv980&ab_channel=AmirHosseinChoghaei
 
 - Done ! After Reboot Login to openwrt And Check Status Page Storage | Disk Space ✅
 
